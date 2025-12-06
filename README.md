@@ -100,7 +100,7 @@ python test_pdf.py
 **Lakshy Mittal**
 
 LinkedIn:
-[https://www.linkedin.com/in/lakshy-mittal](https://www.linkedin.com/in/lakshy-mittal)
+[https://www.linkedin.com/in/lakshy-mittal](linkedin.com/in/lakshy-mittal-501286285/)
 
 GitHub:
 [https://github.com/LakshyMittal](https://github.com/LakshyMittal)
@@ -140,3 +140,4 @@ Visual proof beats any words.
 
 If you want, I can write the *exact markdown snippet* to insert the image and make the README even stronger.
 ```
+
