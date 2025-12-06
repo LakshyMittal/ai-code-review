@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+tmp_reports/
+.env
+*.py files
+requirements.txt
+
